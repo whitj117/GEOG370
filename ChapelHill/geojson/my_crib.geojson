@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "my_crib",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ -79.065089753546474, 35.914029377912286 ] } }
+]
+}
