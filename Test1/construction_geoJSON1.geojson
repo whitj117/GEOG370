@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "construction_geoJSON1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -115.138656708036876, 36.096638838885312 ], [ -115.138827027806755, 36.093182527067505 ], [ -115.120378058555161, 36.092390040350644 ], [ -115.120560248560508, 36.095923907830752 ], [ -115.138656708036876, 36.096638838885312 ] ] ] ] } }
+]
+}
